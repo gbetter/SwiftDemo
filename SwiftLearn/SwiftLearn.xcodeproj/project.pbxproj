@@ -14,6 +14,7 @@
 		5AA5517B1EC06C2E00CA5E0F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5AA551791EC06C2E00CA5E0F /* LaunchScreen.storyboard */; };
 		5AA551861EC06C2E00CA5E0F /* SwiftLearnTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA551851EC06C2E00CA5E0F /* SwiftLearnTests.swift */; };
 		5AA551911EC06C2E00CA5E0F /* SwiftLearnUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA551901EC06C2E00CA5E0F /* SwiftLearnUITests.swift */; };
+		5AA5519F1EC076A900CA5E0F /* STLSurveyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA5519E1EC076A900CA5E0F /* STLSurveyViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		5AA5518C1EC06C2E00CA5E0F /* SwiftLearnUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftLearnUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AA551901EC06C2E00CA5E0F /* SwiftLearnUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftLearnUITests.swift; sourceTree = "<group>"; };
 		5AA551921EC06C2E00CA5E0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5AA5519E1EC076A900CA5E0F /* STLSurveyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = STLSurveyViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				5AA551701EC06C2E00CA5E0F /* AppDelegate.swift */,
 				5AA551721EC06C2E00CA5E0F /* ViewController.swift */,
+				5AA5519E1EC076A900CA5E0F /* STLSurveyViewController.swift */,
 				5AA551741EC06C2E00CA5E0F /* Main.storyboard */,
 				5AA551771EC06C2E00CA5E0F /* Assets.xcassets */,
 				5AA551791EC06C2E00CA5E0F /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 			files = (
 				5AA551731EC06C2E00CA5E0F /* ViewController.swift in Sources */,
 				5AA551711EC06C2E00CA5E0F /* AppDelegate.swift in Sources */,
+				5AA5519F1EC076A900CA5E0F /* STLSurveyViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
