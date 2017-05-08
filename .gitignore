@@ -1,0 +1,5 @@
+.DS_Store
+*/.DS_Store
+/SwiftLearn/Pods
+/SwiftLearn/SwiftLearnTests
+/SwiftLearn/SwiftLearnUITests
